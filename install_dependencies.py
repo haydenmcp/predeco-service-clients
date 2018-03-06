@@ -78,8 +78,7 @@ def main():
     npm_packages = (
         "graphql",
         "express",
-        "express-jwt",
-        "express-graphql",
+        "express-jwt",        
         "request",
         "mocha",
         "chai",
